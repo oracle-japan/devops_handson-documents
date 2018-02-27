@@ -1,0 +1,14 @@
+<svg width="1024" height="1024" xmlns="http://www.w3.org/2000/svg" class="icon">
+ <defs>
+  <style type="text/css"/>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path stroke-width="null" stroke="#bcb5b5" id="svg_1" fill="#fc2020" d="m512,966.4c-246.4,0 -448,-201.6 -448,-448c0,-246.4 201.6,-448 448,-448c246.4,0 448,201.6 448,448c0,249.6 -201.6,448 -448,448zm0,-860.8c-227.2,0 -416,185.6 -416,416s185.6,416 416,416s416,-185.6 416,-416s-188.8,-416 -416,-416z"/>
+  <text style="cursor: move;" stroke="#fc2020" transform="matrix(8.600000381469727,0,0,8.600000381469727,-2147.0001077651978,-2093.8001050949097) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="65" id="svg_3" y="326.678295" x="275.988372" stroke-width="null" fill="#fc2020">欠</text>
+ </g>
+</svg>
